@@ -1,0 +1,43 @@
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  
+  .navbar-collapse {
+    flex-grow: 0;
+  }
+  
+  .navbar-toggler {
+    margin: 20px 0px;
+  }
+  .navbar-brand {
+    margin-right: 0px;
+    margin-left: 400px;
+  }
+ .categorias{
+    text-decoration:none;
+ }
+  h1{
+    text-align: center;
+    background-color: rgb(34, 34, 34);
+    color: whitesmoke;
+    padding: 12px;
+  }
+  h2{
+    text-align: center;
+  }
+ .cards{
+    display: flex;
+    justify-content: center;
+    padding: 18px;
+    background-color: rgb(34, 34, 34); 
+    text-align: center;
+ }
+.card-img-top{
+  height: 300px;
+}
+.card{
+margin: 20PX;
+}

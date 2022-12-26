@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.perrete {
+  background-image: url(https://definicion.de/wp-content/uploads/2013/03/perro-1.jpg);
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
